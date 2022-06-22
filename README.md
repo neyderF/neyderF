@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **neyderF/neyderF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,39 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1>Welcome to my repository center👋</h1>
+
+
+
+<div  style="text-align: right">Here you will find software projects that I have developed using the technologies that I have learned throughout my professional career.</div>
+
+
+  
+## I have experience working with:
+
+* NodeJS
+
+* React JS
+
+* React Native
+
+* Others Frontend and Backend Web Development Technologies
+
+  
+## Programming Languages
+
+* JavaScript
+
+* Java
+
+* Python
+
+## Current Works
+
+* I'm currently working on 🔭 building **AI Chatbots** and working up on polishing my skills 🌱 in **Competitive Programming**.
+
+* Getting Started with MongoDB and the MERN Stack!!
+
+## Contact
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://https://www.linkedin.com/in/neyder-figueroa-sanchez/)](https://www.linkedin.com/in/neyder-figueroa-sanchez/)
+  
