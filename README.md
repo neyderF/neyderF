@@ -28,6 +28,11 @@ Here are some ideas to get you started:
 
 * React Native
 
+* ExpressJS
+
+* Django and DRF
+
+
 * Others Frontend and Backend Web Development Technologies
 
   
